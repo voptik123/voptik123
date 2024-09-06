@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @voptik123
-- 👀 I’m interested in doing my OS
+- 👀 I’m interested in doing construct 3 games
 - 🌱 I’m currently learning programing
 -
 - 📫 How to reach me fik25028
